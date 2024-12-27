@@ -6,10 +6,10 @@ Medpoint system adalah sebuah platform yang memungkinkan pengguna untuk melakuka
 # Teknologi yang digunakan
 
 Teknologi yang digunakan untuk mengembangkan CMS dari medpoint adalah:
-1. Languange : TypeScrit
-2. Framework : ReactJS + VITE
+1. Languange : Golang
+2. Framework : Raiden
 
 
 # Struktur Folder
 
-![alt text](public/StrukturFolderCMS.png)
+![alt text](<Struktur folder Backend.png>)
